@@ -8,4 +8,4 @@ Mark Dimian Rasyah Mahmud (250211060099)
 Kenzo Prayer Sidney Kandouw (250211060122)
 Meike Nadin Moningka (250211060137)
 
-Dalam tugas ini kami memutuskan untuk membuat program kalkulator fungsional dengan ui (dengan menggunakan library tkinter) menggunakan bahasa pemrograman python.
+Dalam tugas ini kami membuat program kalkulator fungsional dengan ui (dengan menggunakan library tkinter) menggunakan bahasa pemrograman python.
