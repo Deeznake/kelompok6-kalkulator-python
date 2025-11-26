@@ -5,7 +5,7 @@ Perkenalkan kami dari kelompok 6 dari Tugas Version Control System proyek kolabo
 Nama anggota:
 Gerry Brillian Bawoel (250211060097)
 Mark Dimian Rasyah Mahmud (250211060099)
-Kenzo Prayer Sidney Kandouw (250211060122)
+Kenzo Prayer Sidney Kandow (250211060122)
 Meike Nadin Moningka (250211060137)
 
 Dalam tugas ini kami membuat program kalkulator fungsional dengan ui (dengan menggunakan library tkinter) menggunakan bahasa pemrograman python.
