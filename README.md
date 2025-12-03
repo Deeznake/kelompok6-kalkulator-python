@@ -2,6 +2,8 @@
 
 ## Kelompok 6
 
+![image alt](https://github.com/Deeznake/kelompok6-kalkulator-python/blob/2facfc468a2b9ac87197ab23454880416b9ce97d/Kalkulator%20-%20preview.png)
+
 ### Pendahuluan
 
 Aplikasi kalkulator ini dibangun dengan menggunakan bahasa pemrograman Python dan library Tkinter untuk antarmuka pengguna (UI). Program ini menyediakan fungsionalitas dasar kalkulator seperti penjumlahan, pengurangan, perkalian, pembagian, serta beberapa fitur tambahan seperti pengaturan nilai positif/negatif, persen, dan akar kuadrat. Kalkulator ini dirancang untuk memberikan pengalaman pengguna yang sederhana dan mudah digunakan.
