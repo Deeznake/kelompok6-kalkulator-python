@@ -1,11 +1,23 @@
-# kelompok6-kalkulator-python
+# Kalkulator Python dengan Tkinter
 
-Perkenalkan kami dari kelompok 6 dari Tugas Version Control System proyek kolaborasi
+## Kelompok 6
 
-Nama anggota:
-Gerry Brillian Bawoel (250211060097)
-Mark Dimian Rasyah Mahmud (250211060099)
-Kenzo Prayer Sidney Kandouw (250211060122)
-Meike Nadin Moningka (250211060137)
+### Pendahuluan
 
-Dalam tugas ini kami memutuskan untuk membuat program kalkulator fungsional dengan ui (dengan menggunakan library tkinter) menggunakan bahasa pemrograman python.
+Aplikasi kalkulator ini dibangun dengan menggunakan bahasa pemrograman Python dan library Tkinter untuk antarmuka pengguna (UI). Program ini menyediakan fungsionalitas dasar kalkulator seperti penjumlahan, pengurangan, perkalian, pembagian, serta beberapa fitur tambahan seperti pengaturan nilai positif/negatif, persen, dan akar kuadrat. Kalkulator ini dirancang untuk memberikan pengalaman pengguna yang sederhana dan mudah digunakan.
+
+### Fitur Utama:
+
+- Operasi Dasar: Penjumlahan, pengurangan, perkalian, dan pembagian.
+
+- Tombol AC: Menghapus semua input dan mengatur ulang kalkulator.
+
+- Tombol +/-: Mengubah tanda angka yang dimasukkan (positif/negatif).
+
+- Tombol %: Menghitung persentase dari nilai yang dimasukkan.
+
+- Tombol Akar Kuadrat: Menghitung akar kuadrat dari nilai yang dimasukkan.
+
+- Desain UI: Antarmuka yang sederhana dan mudah dipahami dengan ukuran font yang besar dan tombol-tombol yang jelas.
+
+- Tombol Desimal: Memungkinkan input angka desimal.
