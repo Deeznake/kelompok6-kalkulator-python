@@ -23,8 +23,3 @@ Aplikasi kalkulator ini dibangun dengan menggunakan bahasa pemrograman Python da
 - Desain UI: Antarmuka yang sederhana dan mudah dipahami dengan ukuran font yang besar dan tombol-tombol yang jelas.
 
 - Tombol Desimal: Memungkinkan input angka desimal.
-
-
-
-(Jendela kalkulator akan muncul dengan otomatis di tengah layar.)
-
