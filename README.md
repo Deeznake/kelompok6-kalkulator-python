@@ -1,6 +1,5 @@
 # Kalkulator Python dengan Tkinter
 
-## Kelompok 6
 
 <img src="https://github.com/Deeznake/kelompok6-kalkulator-python/blob/2facfc468a2b9ac87197ab23454880416b9ce97d/Kalkulator%20-%20preview.png" width=300 height=600>
 
