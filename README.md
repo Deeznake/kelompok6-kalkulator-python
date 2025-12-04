@@ -1,27 +1,45 @@
 # Kalkulator Python dengan Tkinter
 
-<img src="https://github.com/Deeznake/kelompok6-kalkulator-python/blob/2facfc468a2b9ac87197ab23454880416b9ce97d/Kalkulator%20-%20preview.png" width="300" height="600">
+<img src="https://github.com/Deeznake/kelompok6-kalkulator-python/blob/2facfc468a2b9ac87197ab23454880416b9ce97d/Kalkulator%20-%20preview.png" width="300" height="600" alt="Tampilan Aplikasi Kalkulator">
 
 ## Pendahuluan
 
-Aplikasi kalkulator ini dibangun menggunakan bahasa pemrograman **Python** dan library **Tkinter** untuk antarmuka pengguna (UI). Program ini menyediakan fungsionalitas dasar kalkulator seperti penjumlahan, pengurangan, perkalian, dan pembagian, serta beberapa fitur tambahan.
+Proyek ini merupakan aplikasi **kalkulator** yang dibangun menggunakan bahasa pemrograman **Python** dengan library **Tkinter** sebagai antarmuka pengguna (GUI).  
+Aplikasi dirancang untuk menjalankan operasi aritmetika dasar serta beberapa fungsi tambahan yang umum digunakan dalam kalkulator sehari-hari.
 
 ## Fitur Utama
 
-- **Operasi Dasar**: Penjumlahan, pengurangan, perkalian, dan pembagian.
-- **Tombol AC**: Menghapus semua input dan mengatur ulang kalkulator.
-- **Tombol +/-**: Mengubah tanda angka yang dimasukkan (positif/negatif).
-- **Tombol %**: Menghitung persentase dari nilai yang dimasukkan.
-- **Tombol Akar Kuadrat**: Menghitung akar kuadrat dari nilai yang dimasukkan.
-- **Desain UI**: Antarmuka yang sederhana, mudah dipahami, dengan ukuran font besar dan tombol-tombol jelas.
-- **Tombol Desimal**: Memungkinkan input angka desimal.
+- **Operasi Dasar**  
+  Mendukung penjumlahan, pengurangan, perkalian, dan pembagian.
+
+- **Tombol AC (All Clear)**  
+  Menghapus seluruh input dan mengatur ulang tampilan kalkulator ke kondisi awal.
+
+- **Tombol +/-**  
+  Mengubah tanda bilangan yang sedang ditampilkan (positif ↔ negatif).
+
+- **Tombol % (Persen)**  
+  Menghitung persentase dari nilai yang dimasukkan.
+
+- **Tombol Akar Kuadrat (√)**  
+  Menghitung akar kuadrat dari nilai yang sedang ditampilkan.
+
+- **Tombol Desimal (.)**  
+  Memungkinkan input bilangan desimal.
+
+- **Desain Antarmuka**  
+  Tampilan sederhana dan bersih, dengan:
+  - Font angka yang besar dan mudah dibaca  
+  - Tombol-tombol yang jelas dan mudah diakses  
+  - Layout yang intuitif bagi pengguna baru
 
 ## Panduan Instalasi
 
-1. Pastikan **Python 3** sudah terpasang  
+1. **Pastikan Python 3 sudah terpasang**
+
+   Cek versi Python dengan perintah:
    ```bash
    python --version
-   ```
 
 2. Clone repository  
    ```bash
