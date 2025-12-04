@@ -24,26 +24,7 @@ Aplikasi kalkulator ini dibangun dengan menggunakan bahasa pemrograman Python da
 
 - Tombol Desimal: Memungkinkan input angka desimal.
 
-### Panduan Instalasi
 
-1. Pastikan Python 3 sudah terpasang
-   python --version
-
-2. Clone repository
-   git clone https://github.com/username/nama-repository.git
-   
-3. Masuk ke folder proyek
-   cd nama-repository
-4. Tidak perlu install library tambahan
-   Program hanya menggunakan Tkinter yang sudah tersedia secara default di Python.
-
-### Panduan Menjalankan Program
-
-Jalankan file kalkulator dengan perintah:
-python main.py
-
-atau:
-python calculator.py
 
 (Jendela kalkulator akan muncul dengan otomatis di tengah layar.)
 
