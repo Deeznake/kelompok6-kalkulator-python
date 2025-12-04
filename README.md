@@ -36,3 +36,30 @@ Aplikasi kalkulator ini dibangun dengan menggunakan bahasa pemrograman Python da
    
 5. Tidak perlu install library tambahan
    Program hanya menggunakan Tkinter yang sudah tersedia secara default di Python.
+
+### Panduan Menjalankan Program
+Jalankan file kalkulator dengan perintah: python main.py
+
+atau: python calculator.py
+
+(Jendela kalkulator akan muncul dengan otomatis di tengah layar.)
+
+### Dokumentasi Teknik
+```mermaid
+graph TD;
+   A(Start) --> B[Input angka pertama]
+   B --> C[Input operator +, -, *, /]
+   C --> D[Input angka kedua]
+   D --> E{Operator apa?}
+
+   E --> F[Jika + maka angka1 + angka2]
+   E --> G[Jika - maka angka1 - angka2]
+   E --> H[Jika * maka angka1 * angka2]
+   E --> I[Jika / maka angka1 / angka2]
+
+   F --> J[Tampilkan hasil]
+   G --> J
+   H --> J
+   I --> J
+   J --> K[End]
+```
