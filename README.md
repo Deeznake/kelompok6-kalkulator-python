@@ -66,12 +66,3 @@ graph TD;
    I --> J
    J --> K[End]
 ```
-
-## Daftar Kontributor
-
-| No | Nama                          | NIM            | Link Akun Github                      |
-|----|-------------------------------|----------------|----------------------------------------|
-| 1  | Gerry Brillian Bawoel         | 250211060097   | [Deeznake](https://github.com/Deeznake) |
-| 2  | Kenzo Prayer Sidney Kandow     | 250211060122   | [KenzoKandow](https://github.com/KenzoKandow) |
-| 3  | Mark Dimian Rasyah Mahmud     | 250211060099   | [RasyaMahmud](https://github.com/RasyaMahmud) |
-| 4  | Meyke Nadin Moningka          | 250211060137   | [NadinMoningka](https://github.com/NadinMoningka) |
